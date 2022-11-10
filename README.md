@@ -11,13 +11,16 @@ How does it work, you may ask? It checks for various things that make a website 
 From 0% (obvious scam) to 100% (safe), 50% could be scam or not.
 
 
-Q: I tried to test my site, but your algorithm says my website below 50%!
+`Q: I tried to test my site, but your algorithm says my website below 50%!`
+
 A: Then there must be something making your site look and seem like a scam. The algorithm thinks like me if I was the one checking + magic, and if I think your website is a scam, you must re-assess your website.
 
-Q: I am running a legitimate business. How can I improve my score if your program / software is closed-source?
+`Q: I am running a legitimate business. How can I improve my score if your program / software is closed-source?`
+
 A: Contact me, and I will let you know how to improve your website score.
 
-Q: My site is a scam but your algorithm said it was legit >:)
+`Q: My site is a scam but your algorithm said it was legit >:)`
+
 A: False positives can still go through, but. I am consistently updating this so in a couple of weeks or less your website score WILL go low.
 
 
