@@ -21,7 +21,7 @@ A: Contact me, and I will let you know how to improve your website score. Be rea
 
 `Q: My site is a scam but your algorithm said it was legit >:)`
 
-A: False positives can still go through, but. I am consistently updating this so in a couple of weeks or less your website score WILL go low.
+A: False positives can still go through, but, I am consistently updating this so in a couple of weeks or less your website score WILL go low.
 
 
 
