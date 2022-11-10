@@ -17,7 +17,7 @@ A: Then there must be something making your site look and seem like a scam. The 
 
 `Q: I am running a legitimate business. How can I improve my score if your program / software is closed-source?`
 
-A: Contact me, and I will let you know how to improve your website score.
+A: Contact me, and I will let you know how to improve your website score. Be ready to prove you run a legitimate business.
 
 `Q: My site is a scam but your algorithm said it was legit >:)`
 
